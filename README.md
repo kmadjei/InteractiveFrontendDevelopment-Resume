@@ -6,7 +6,7 @@ In this project, an online resume is built for Rosie Odenkirk (fictitious develo
 
 The features of this project allows users to not only view Rosie's skills, but also send her an email, search and view her github projects, as well as view google map markers  of conferences Rosie has attended.
 
-👉[Quick Preview](https://kmadjei.github.io/LoveMaths-JS-WalkthrouhProject/)
+👉 [Quick Preview](https://kmadjei.github.io/InteractiveFrontendDevelopment-Resume/)
 
 ## Features
  
@@ -41,6 +41,8 @@ The features of this project allows users to not only view Rosie's skills, but a
 
 - [EmailJS SDK](https://www.emailjs.com/docs/)
     - The project uses **EmailJS SDK** to provide email services for the contact form.
+
+-----add fontawesome and Javascript--------
 
 ## Testing
 
