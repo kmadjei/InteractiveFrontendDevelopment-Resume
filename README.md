@@ -83,5 +83,5 @@ The project is uploaded on Github it can be view via github pages 👉 [HERE](ht
 
 ### Acknowledgements
 
-- I thank Math Rudge, Instructor at The Code Institute, for his guidance on this project and piecing together all the lessons from the Interactive Frontend Development Module.
+- I thank Matt Rudge, Instructor at The Code Institute, for his guidance on this project and piecing together all the lessons from the Interactive Frontend Development Module.
 
