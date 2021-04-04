@@ -44,23 +44,30 @@ The features of this project allows users to not only view Rosie's skills, but a
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+1. Automated tests
+     - implemented automated tests for HTTP API requests using promise functions
+     -  Logs if request is successful or reveals error status 
+     - Example:
+     ```js
+        myPromise.then(
+        function(value) { /* code if successful */ },
+        function(error) { /* code if some error */ }
+        );
+     ```
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+2. Contact Form:
+    1. User tries to submit form with invalid information
+    2. Inbuilt validation validates iin correct information has been inputted by user
+    3. Prompts user to make sure all required form fields are filled
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+3. Responsiveness:
+    1. As a user I expect the information presented in the project to be responsive on all devices
+    2. Use chrome dev tools to check responsiveness of each web page  
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+4. User API Tests:
+    1. On interest page, users is able to view custom map with clear location markers
+    2. On GitHub page, when user searches for any github user name, it returns profile avatar along with list of repositories
+    3. When users send email via contact form, Rosie must receive email sent
 
 ## Deployment
 
