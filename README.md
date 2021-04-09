@@ -13,11 +13,11 @@ The features of this project allows users to not only view Rosie's skills, but a
 ### Existing Features
 - Home - Provides information about Rosie's background for users / clients
 - Resume Page - showcases Rosie's experiences
-- Contact - shows an online form for users to send email to get in touch with Rosie
+- Contact - shows an online form for users to send an email to Rosie
 - Download link - opens a new webpage for downloading an electronic copy of Rosie's CV
-- 404 file - Sends sends error message to user's of a page that doesn't exist
-- Interests page - shows google maps with  cluster location markers of meetups and conferences Rosie has been involved with
-- Github page - Allows for users to search for Rosie's github portfolio repositories without opening a new window to do that
+- 404 file - Sends user's error notification of pages that do not exist
+- Interests page - shows google maps with  cluster location markers of meetups and conferences that Rosie has been involved with
+- Github page - Allows for users to search for Rosie's github portfolio repositories without opening a new window 
 
 ## Technologies Used
 
