@@ -28,10 +28,16 @@ The features of this project allows users to not only view Rosie's skills, but a
     - **CSS** was used in this project to develop the aesthetics of the web pages
 
 - [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-     - This project uses **Bootstrap 4** for the responsive web design to enhance the UX
+    - This project uses **Bootstrap 4** for the responsive web design to enhance the UX
+    
+- [Font Awesome 4.7](https://fontawesome.com/)
+    - **Font Awesome** provides this website project, access to its library of icons 
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation for the Github API portfolio development.
+- [Font Awesome 4.7](https://fontawesome.com/)
+    - **Font Awesome** provides this website project, access to its library of icons 
+
+- [JavaScript](https://www.w3schools.com/js/default.asp)
+    - The project uses **JavaScript** to create dynamic content for  the website.
 
 - [Google Maps API](https://developers.google.com/maps/gmp-get-started#quickstart)
     - The project uses **Google Maps API** to build a custom map for Rosie.
