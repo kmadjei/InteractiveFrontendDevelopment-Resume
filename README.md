@@ -48,8 +48,6 @@ The features of this project allows users to not only view Rosie's skills, but a
 - [EmailJS SDK](https://www.emailjs.com/docs/)
     - The project uses **EmailJS SDK** to provide email services for the contact form.
 
------add fontawesome and Javascript--------
-
 ## Testing
 
 1. Automated tests
