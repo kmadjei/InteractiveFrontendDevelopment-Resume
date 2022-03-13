@@ -33,9 +33,6 @@ The features of this project allows users to not only view Rosie's skills, but a
 - [Font Awesome 4.7](https://fontawesome.com/)
     - **Font Awesome** provides this website project, access to its library of icons 
 
-- [Font Awesome 4.7](https://fontawesome.com/)
-    - **Font Awesome** provides this website project, access to its library of icons 
-
 - [JavaScript](https://www.w3schools.com/js/default.asp)
     - The project uses **JavaScript** to create dynamic content for  the website.
 
@@ -50,7 +47,7 @@ The features of this project allows users to not only view Rosie's skills, but a
 
 ## Testing
 
-1. Automated tests
+1. EmailJS SDK FormData test
      - implemented automated tests for HTTP API requests using promise functions
      -  Logs if request is successful or reveals error status 
      - Example:
